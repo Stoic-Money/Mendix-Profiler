@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.mendix.com/package/1.0/">
+  <modelerProject xmlns="http://www.mendix.com/modelerProject/1.0/">
+    <module name="MxProfiler" />
+    <projectFile path="project.mpr" />
+    <files>
+      <file path="javasource/mxprofiler/implementation/DisconnectCallback.java" />
+      <file path="javasource/mxprofiler/implementation/MicroflowExecutionLogSubscriber.java" />
+      <file path="javasource/mxprofiler/implementation/TCPClient.java" />
+      <file path="widgets/com.mendix.widget.web.Combobox.mpk" />
+      <file path="widgets/com.mendix.widget.web.Datagrid.mpk" />
+      <file path="widgets/com.mendix.widget.web.DatagridDateFilter.mpk" />
+      <file path="widgets/com.mendix.widget.web.DatagridDropdownFilter.mpk" />
+      <file path="widgets/com.mendix.widget.web.DatagridTextFilter.mpk" />
+      <file path="widgets/MicroflowTimer.mpk" />
+      <file path="javasource/mxprofiler/actions/TryConnect.java" />
+      <file path="javasource/mxprofiler/actions/isConnected.java" />
+      <file path="javasource/mxprofiler/actions/JA_LogListener_Start.java" />
+      <file path="javasource/mxprofiler/actions/JA_Session_End.java" />
+      <file path="javasource/mxprofiler/actions/TryDisconnect.java" />
+      <file path="javasource/mxprofiler/actions/JA_LogListener_Stop.java" />
+      <file path="themesource/mxprofiler/settings.json" />
+      <file path="themesource/mxprofiler/native/design-properties.json" />
+      <file path="themesource/mxprofiler/native/main.js" />
+      <file path="themesource/mxprofiler/web/design-properties.json" />
+      <file path="themesource/mxprofiler/web/main.scss" />
+    </files>
+  </modelerProject>
+</package>
